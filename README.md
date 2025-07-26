@@ -6,56 +6,56 @@ Step by step guide to becoming a modern frontend developer
 
 ### [Visual Studio Code Editor - The Complete Guide](https://www.udemy.com/course/visual-studio-code-editor-the-complete-guide/)
 
-- [ ] The Basics
-- [ ] Customizing Visual Studio Code
-- [ ] Write Code 10x Faster Using Advance Shortcuts
-- [ ] Emmet's In Visual Studio Code
-- [ ] VSC Top Extensions
+- [x] The Basics
+- [x] Customizing Visual Studio Code
+- [x] Write Code 10x Faster Using Advance Shortcuts
+- [x] Emmet's In Visual Studio Code
+- [x] VSC Top Extensions
 
 ### [Git Tutorials](https://www.youtube.com/watch?v=evknSAkUIvs&list=PLu0W_9lII9agwhy658ZPA0MTStKUJTWPi)
 
-- [ ] What is Git/GitHub & Why do we need it? | Git Tutorials #1
-- [ ] Installing Git + Initial Setup? | Git Tutorials #2
-- [ ] Git: Three Stage Architecture | Git Tutorials #3
-- [ ] Tracking Our first Git Project | Git Tutorials #4
-- [ ] Cloning a Remote Git Repository from GitHub | Git Tutorials #5
-- [ ] Git: File Status Lifecycle | Git Tutorials #6
-- [ ] .gitignore: Ignoring Files in Git | Git Tutorials #7
-- [ ] Git Diff: Showing Changes Between Commits/Staging Area & Working Directory | Git Tutorials #8
-- [ ] Git: Skipping The Staging Area | Git Tutorials #9
-- [ ] Moving and Renaming Files In Git | Git Tutorials #10
-- [ ] Git Log: Viewing & Changing Commits In Git | Git Tutorials #11
-- [ ] Unstaging & Unmodifying Files In Git | Git Tutorials #12
-- [ ] GitHub: Working with Remote Repositories | Git Tutorials #13
-- [ ] Setting Alias In Git | Git Tutorials #14
-- [ ] Git: Creating & Switching Branches In Git | Git Tutorials #15
-- [ ] Branching & Merging a Production Grade Project | Git Tutorials #16
-- [ ] Resolving Merge Conflicts (With Example) | Git Tutorials #17
-- [ ] Git Branching Workflow in Production | Git Tutorials #18
-- [ ] Pushing Git Branches To Remote Repositories | Git Tutorials #19
+- [x] What is Git/GitHub & Why do we need it? | Git Tutorials #1
+- [x] Installing Git + Initial Setup? | Git Tutorials #2
+- [x] Git: Three Stage Architecture | Git Tutorials #3
+- [x] Tracking Our first Git Project | Git Tutorials #4
+- [x] Cloning a Remote Git Repository from GitHub | Git Tutorials #5
+- [x] Git: File Status Lifecycle | Git Tutorials #6
+- [x] .gitignore: Ignoring Files in Git | Git Tutorials #7
+- [x] Git Diff: Showing Changes Between Commits/Staging Area & Working Directory | Git Tutorials #8
+- [x] Git: Skipping The Staging Area | Git Tutorials #9
+- [x] Moving and Renaming Files In Git | Git Tutorials #10
+- [x] Git Log: Viewing & Changing Commits In Git | Git Tutorials #11
+- [x] Unstaging & Unmodifying Files In Git | Git Tutorials #12
+- [x] GitHub: Working with Remote Repositories | Git Tutorials #13
+- [x] Setting Alias In Git | Git Tutorials #14
+- [x] Git: Creating & Switching Branches In Git | Git Tutorials #15
+- [x] Branching & Merging a Production Grade Project | Git Tutorials #16
+- [x] Resolving Merge Conflicts (With Example) | Git Tutorials #17
+- [x] Git Branching Workflow in Production | Git Tutorials #18
+- [x] Pushing Git Branches To Remote Repositories | Git Tutorials #19
 
 ## WEEK 02
 
 ### [Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
 
-- [ ] Welcome and First Steps
-- [ ] HTML Fundamentals
-- [ ] CSS Fundamentals
-- [ ] Layouts: Floats, Flexbox, and CSS Grid Fundamentals
+- [x] Welcome and First Steps
+- [x] HTML Fundamentals
+- [x] CSS Fundamentals
+- [x] Layouts: Floats, Flexbox, and CSS Grid Fundamentals
 
 ## WEEK 03
 
 ### [Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
 
-- [ ] Web Design Rules and Framework
-- [ ] Components and Layout Patterns
+- [x] Web Design Rules and Framework
+- [x] Components and Layout Patterns
 
 ## WEEK 04
 
 ### [Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
 
 - [x] Omnifood Project – Setup and Desktop Version
-- [ ] Omnifood Project – Responsive Web Design
+- [x] Omnifood Project – Responsive Web Design
 
 ## WEEK 05
 
