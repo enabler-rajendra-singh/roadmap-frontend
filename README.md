@@ -66,8 +66,8 @@ Step by step guide to becoming a modern frontend developer
 
 ### [Tailwind CSS From Scratch | Learn By Building Projects](https://www.udemy.com/course/tailwind-from-scratch/)
 
-- [ ] Introduction
-- [ ] Tailwind Fundamentals - Part 1
+- [✔] Introduction
+- [✔] Tailwind Fundamentals - Part 1
 - [ ] Tailwind Fundamentals - Part 2
 
 ## WEEK 06
