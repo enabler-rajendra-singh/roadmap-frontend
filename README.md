@@ -92,7 +92,7 @@ Step by step guide to becoming a modern frontend developer
 
 - [✔] Welcome, Welcome, Welcome!
 - [✔] JavaScript Fundamentals – Part 1
-- [ ] JavaScript Fundamentals – Part 2
+- [✔] JavaScript Fundamentals – Part 2
 - [ ] How to Navigate This Course
 
 ## WEEK 09
