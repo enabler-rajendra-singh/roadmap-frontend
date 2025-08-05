@@ -93,14 +93,14 @@ Step by step guide to becoming a modern frontend developer
 - [✔] Welcome, Welcome, Welcome!
 - [✔] JavaScript Fundamentals – Part 1
 - [✔] JavaScript Fundamentals – Part 2
-- [ ] How to Navigate This Course
+- [✔] How to Navigate This Course
 
 ## WEEK 09
 
 ### [The Complete JavaScript Course 2023: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
 
-- [ ] Developer Skills & Editor Setup
-- [ ] [OPTIONAL] HTML & CSS Crash Course
+- [✔] Developer Skills & Editor Setup
+- [✔] [OPTIONAL] HTML & CSS Crash Course
 - [ ] JavaScript in the Browser: DOM and Events Fundamentals
 - [ ] How JavaScript Works Behind the Scenes
 
