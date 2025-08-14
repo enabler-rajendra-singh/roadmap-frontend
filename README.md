@@ -109,7 +109,7 @@ Step by step guide to becoming a modern frontend developer
 ### [The Complete JavaScript Course 2023: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
 
 - [✔] Data Structures, Modern Operators and Strings
-- [ ] A Closer Look at Functions
+- [✔] A Closer Look at Functions
 - [ ] Working With Arrays
 
 ## WEEK 11
